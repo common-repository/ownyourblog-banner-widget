@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Banner\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-21 11:42+0200\n"
+"PO-Revision-Date: 2011-02-21 11:43+0200\n"
+"Last-Translator: Ownyourblog <ownyourblog@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: d:\\temp\\banner\n"
+
+#: d:\temp\banner/banner.php:45
+msgid "Widget shows unlimited banners in your sidebar"
+msgstr "Виджет показывает неограниченное число баннеров в сайдбаре вашего сайта"
+
+#: d:\temp\banner/banner.php:51
+msgid "Banners Widget"
+msgstr "Виджет Баннеров"
+
+#: d:\temp\banner/banner.php:105
+msgid "Create Your Website"
+msgstr "Создай свой сайт!"
+
+#: d:\temp\banner/banner.php:110
+msgid "Banner Tittle"
+msgstr "Заголовок Баннера"
+
+#: d:\temp\banner/banner.php:116
+msgid "Your aff link"
+msgstr "Партнерская Ссылка"
+
+#: d:\temp\banner/banner.php:120
+msgid "Banner Image URL"
+msgstr "Ссылка на Изображение"
+
+#: d:\temp\banner/banner.php:124
+msgid "Banner Width"
+msgstr "Ширина Картинки"
+
+#: d:\temp\banner/banner.php:128
+msgid "Hover Title"
+msgstr "Всплывающая Надпись"
+
